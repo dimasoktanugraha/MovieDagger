@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie Expert Dagger</string>
+    <string name="movie_image">movie image</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="no_data">Empty data</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="detail_backdrop">detail backdrop</string>
+    <string name="detail_poster">detail poster</string>
+    <string name="detail_favorite">detail favorite</string>
+    <string name="search">search</string>
+    <string name="detail_back">detail back</string>
+</resources>
